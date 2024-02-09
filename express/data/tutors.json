@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "Paula",
+		"surname": "Goodwin",
+		"tutor_specialization": "English",
+		"hourly_price": 82
+	},
+	{
+		"id": 2,
+		"name": "Bob",
+		"surname": "Johnson",
+		"tutor_specialization": "Biology",
+		"hourly_price": 49
+	},
+	{
+		"id": 3,
+		"name": "Ruben",
+		"surname": "Martin",
+		"tutor_specialization": "Mathematics",
+		"hourly_price": 91
+	},
+	{
+		"id": 4,
+		"name": "Jennifer",
+		"surname": "Frey",
+		"tutor_specialization": "English",
+		"hourly_price": 49
+	},
+	{
+		"id": 5,
+		"name": "George",
+		"surname": "Jones",
+		"tutor_specialization": "Mathematics",
+		"hourly_price": 84
+	},
+	{
+		"id": 6,
+		"name": "Alice",
+		"surname": "Garcia",
+		"tutor_specialization": "Computer Science",
+		"hourly_price": 57
+	},
+	{
+		"id": 7,
+		"name": "Barbara",
+		"surname": "Ruiz",
+		"tutor_specialization": "History",
+		"hourly_price": 43
+	},
+	{
+		"id": 8,
+		"name": "Richard",
+		"surname": "Miller",
+		"tutor_specialization": "Computer Science",
+		"hourly_price": 96
+	}
+]
